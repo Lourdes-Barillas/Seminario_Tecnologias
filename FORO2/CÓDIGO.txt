@@ -1,0 +1,74 @@
+\documentclass[12pt]{article}
+\usepackage{newtxtext}
+\usepackage{graphicx} % Required for inserting images
+
+\title{\textbf{BUENAS PRACTICAS PARA EL DESARROLLO DE APLICACIONES ÁGILES} \\ }
+\author{
+    Lourdes Adriana Pérez Barillas \\
+    \textit{7690-19-5420 Universidad Mariano Gálvez} \\
+    \texttt{Seminario de Tecnologías de información}
+}
+\date{2 de agosto del 2024}
+\begin{document}
+
+\maketitle
+
+\section{Resumen}
+    \ Las buenas prácticas para el desarrollo de aplicaciones web en un contexto ágil se refieren a estrategias recomendadas que los equipos de software deben seguir para crear aplicaciones de manera ágil, centrándose en flexibilidad, colaboración y entrega rápida de productos funcionales. Estas prácticas permiten a los equipos ser más efectivos y alineados con los objetivos del cliente, facilitando la entrega rápida y de alta calidad de aplicaciones web. \\
+
+
+
+\section{
+    Palabras Clave
+}
+\begin{itemize}
+    \item \textbf{Flexibilidad}
+    \item \textbf{Adaptabilidad}
+    \item \textbf{Retroalimentación}
+    \item \textbf{Colaboración}
+    \item \textbf{Iteraciones}
+\end{itemize}
+
+\section{Desarrollo del tema}
+    \textbf{Buenas prácticas para el desarrollo de aplicaciones web} \\ 
+        Se refiere a las estrategias y enfoques recomendados que los equipos de software deben seguir para crear aplicaciones de manera ágil. El desarrollo ágil se centra en la flexibilidad, la colaboración y la entrega rápida de productos funcionales.
+
+        Las buenas prácticas en metodologías ágiles son las siguientes:
+        \begin{itemize}
+        \item Iteraciones cortas y frecuentes en ciclos cortos como un Sprint de 1 a 4 semanas. Al final de cada sprint se debe tener una versión funcional del producto.
+
+        \item Colaboración y comunicación constante y abierta entre todos los miembros del equipo.
+        
+        \item Retroalimentación continua de los clientes y usuarios finales de manera regular para ajustar y mejorar el producto según las necesidades reales.
+        
+        \item Prioriza el trabajo utilizando un backlog de producto para priorizar las características y tareas que deben ser desarrolladas. 
+        
+        \item Automatización de pruebas para asegurar la calidad del código y reducir el tiempo de validación de nuevas funcionalidades.
+        
+        \item Entrega contínua para permitir que los cambios de código se integren y desplieguen de manera rápida y segura.
+
+        \item Refactorización constante para mejorar el código existente para mantenerlo limpio y manejable. Esto ayuda a prevenir la acumulación de deuda técnica.
+
+        \item Documentación mínima pero suficiente para mantener la comprensión del sistema, evitando documentación excesiva.
+
+        \item Empoderamiento del equipo para fomentar la utonomía y la responsabilidad dentro del equipo. Los miembros del equipo deben tener la libertad de tomar decisiones sobre como realizar su trabajo.
+
+        \item Adaptabilidad y flexibilidad, estando dispuestos a cambiar de dirección según las circunstancias y el feedback recibido.
+    \end{enumerate}    
+\section{
+    Observaciones y comentarios
+}
+    El artículo tiene como objetivo dar a entender las practicas utilizadas en metodologías ágiles y cómo deben usarse correctamente. Adicionalmente, se debe recordar que la metodología ágil está enfocada en el constante cambio en procesos y tiene desventajas como errores constantes.
+\section{
+    Conclusiones
+}
+    La metodología ágil en el desarrollo del software representa una gran ventaja para una entrega lo más parecida a la solicitud del cliente.
+\section{
+    Bibliografía
+}
+    \ Agile Alliance. (2001). Manifesto for Agile Software Development. Recuperado de https://agilemanifesto.org/ \\ \\
+    \  Research Prospect. (2023, 10 de julio). The Schwaber, K., & Sutherland, J. (2020). The Scrum Guide. The Definitive Guide to Scrum: The Rules of the Game. Recuperado de scrumguides.org. \\ \\
+
+\\ \textbf{Link del repositorio en github} \\ 
+https://github.com/Lourdes-Barillas/Seminario_Tecnologias.git
+\end{document}
